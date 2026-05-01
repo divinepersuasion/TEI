@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogue des passages référant aux divinités isiaques chez Athénagore d'Athènes</title>
+                <principal>Elise Coignet</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>Extraits de l'édition de Pouderon(Sources chrétiennes n°379, 1992)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Athénagore d'Athènes</author>
+                        <title>Supplique au sujet des chrétiens</title>
+                        <title>Sur la résurrection des morts</title>
+                        <respStmt>
+                            <resp>introduction, texte et traduction</resp>
+                            <name>Bernard Pouderon</name>
+                        </respStmt>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Éditions du Cerf</publisher>
+                            <date when="1992">1992</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Sources chrétiennes</title>
+                        <biblScope unit="volume">379</biblScope>
+                    </series>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Grec ancien</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="genre">
+                    <term>apologétique</term>
+                    <term>prose</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date>177</date>
+                <date scope="160-220"/>
+                <date period="préconstantinienne">période préconstantinienne</date>
+                <placeName>Athènes</placeName>
+                <region>Grèce</region>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <gap reason="sampling"/>
+            <p n="22.8-9">τί δὲ δεῖ ὑμῖν ἐπὶ πλέον λέγοντα ἐνοχλεῖν ὑμῖν, οἳ ἄμεινον τὰ παρ’ ἑκάστοις τῶν πεφυσιολογηκότων οἴδατε,
+                ποῖα περὶ τῆς φύσεως ἐνόησαν οἱ συγγραψάμενοι ἢ περὶ τῆς <persName type="deity" key="Athena">Ἀθηνᾶς</persName>, ἣν φρόνησιν διὰ πάντων διήκουσάν φασιν, 
+                ἢ περὶ τῆς <persName type="deity" key="Isis">Ἴσιδος</persName>, ἣν φύσιν αἰῶνος, ἐξ ἧς πάντες ἔφυσαν καὶ δι’ ἧς πάντες εἰσίν, λέγουσιν, ἢ περὶ τοῦ <persName type="deity" key="Osiris">Ὀσίριδος</persName>,
+                οὗ σφαγέντος ὑπὸ<persName type="deity" key="Typhon"> Τυφῶνος</persName> τοῦ ἀδελφοῦ  περὶ Πελούσιον μετ' <persName type="deity" key="Horus">Ὤρου</persName> τοῦ υἱοῦ ἡ <persName type="deity" key="Isis">Ἶσις</persName> ζητοῦσα τὰ μέλη καὶ εὑροῦσα 
+                ἤσκησεν εἰς ταφήν, ἣ ταφὴ ἕως νῦν Ὀσιριακὴ καλεῖται; ἄνω κάτω γὰρ περὶ τὰ εἴδη τῆς ὕλης στρεφόμενοι 
+                ἀποπίπτουσιν τοῦ λόγῳ θεωρητοῦ θεοῦ, τὰ δὲ στοιχεῖα καὶ τὰ μόρια αὐτῶν θεοποιοῦσιν, ἄλλοτε ἄλλα ὀνόματα αὐτοῖς 
+                τιθέμενοι, τὴν μὲν τοῦ σίτου σπορὰν <persName type="deity" key="Osiris">Ὄσιριν</persName> (ὅθεν φασὶ μυστικῶς ἐπὶ τῇ ἀνευρέσει τῶν μελῶν ἢ τῶν καρπῶν ἐπιλεχθῆναι 
+                τῇ <persName type="deity" key="Isis">Ἴσιδι</persName> <quote xml:lang="grc">εὑρήκαμεν, συγχαίρομεν</quote>), τὸν δὲ τῆς ἀμπέλου καρπὸν <persName type="deity" key="Dionysos">Διόνυσον </persName>καὶ <persName type="deity" key="Selene">Σεμέλην</persName> αὐτὴν τὴν ἄμπελον καὶ κεραυνὸν 
+                τὴν τοῦ ἡλίου φλόγα.</p> 
+            <gap reason="sampling"/>
+            
+            <p n="28.1-2">Ἀναγκαῖον δὲ ἴσως κατὰ τὰ προειρημένα περὶ τῶν ὀνομάτων ὀλίγα εἰπεῖν. Ἡρόδοτος μὲν οὖν καὶ Ἀλέξανδρος
+                ὁ τοῦ Φιλίππου ἐν τῇ πρὸς τὴν μητέρα ἐπιστολῇ (ἑκάτεροι δὲ ἐν τῇ Ἡλιουπόλει καὶ ἐν Μέμφιδι καὶ Θήβαις εἰς 
+                λόγους τοῖς ἱερεῦσιν ἀφῖχθαι λέγονται) φασὶ παρ’ ἐκείνων ἀνθρώπους αὐτοὺς γενέσθαι μαθεῖν.
+                Ἡρόδοτος· <quote xml:lang="grc">ἤδη ὦν τῶν αἱ εἰκόνες ἦσαν, τοιούτους ἀπεδείκνυσάν σφεας αὐτοὺς ἐόντας, θεῶν δὲ πολλὸν ἀπηλλαγμένους. 
+                τὸ δὲ πρότερον τῶν ἀνδρῶν τούτων θεοὺς εἶναι τοὺς ἐν Αἰγύπτῳ ἄρχοντας, οἰκέοντας ἅμα τοῖς ἀνθρώποισιν, 
+                καὶ τούτων ἀεὶ ἕνα τὸν κρατέοντα εἶναι· ὕστερον δὲ αὐτῆς βασιλεῦσαι <persName type="deity" key="Horus">Ὧρον</persName> τὸν <persName type="deity" key="Osiris">Ὀσίρεως</persName> παῖδα, τὸν <persName type="deity" key="Apollon">Ἀπόλλωνα</persName>
+                <persName type="population" key="Grecs">Ἕλληνες</persName> ὀνομάζουσιν· τοῦτον καταπαύσαντα <persName type="deity" key="Typhon">Τυφῶνα</persName> βασιλεῦσαι ὕστατον Αἰγύπτου.<persName type="deity" key="Osiris"> Ὄσιρις</persName> δέ ἐστι <persName type="deity3" key="Dionysos">Διόνυσος</persName> 
+                κατὰ Ἑλλάδα γλῶσσαν.</quote></p>
+            
+            <p n="28.3">οἵ τε οὖν ἄλλοι καὶ τελευταῖος βασιλεῖς Αἰγύπτου· παρὰ δὲ τούτων εἰς Ἕλληνας ἦλθε τὰ ὀνόματα τῶν θεῶν. 
+                <persName type="deity" key="Apollon">Ἀπόλλων</persName> ὁ <persName type="deity" key="Dionysos">Διονύσου </persName>καὶ <persName type="deity" key="Isis">Ἴσιδος</persName>· ὁ αὐτὸς Ἡρόδοτος·<quote xml:lang="grc"> <persName type="deity" key="Apollon">Ἀπόλλωνα</persName> δὲ καὶ <persName type="deity" key="Artemis">Ἄρτεμιν</persName> <persName type="deity" key="Dionysos">Διονύσου</persName> καὶ <persName type="deity" key="Isis">Ἴσιδος</persName> λέγουσιν εἶναι παῖδας,
+                <persName type="deity" key="Leto">Λητὼ</persName> δὲ τροφὸν αὐτοῖσι καὶ σώτειραν γενέσθαι.</quote></p>
+            
+            <p n="28.4">οὓς οὐρανίους γεγονότας πρώτους βασιλέας ἔσχον, πῃ μὲν ἀγνοίᾳ τῆς ἀληθοῦς περὶ τὸ θεῖον εὐσεβείας,
+                πῃ δὲ χάριτι τῆς ἀρχῆς θεοὺς ὁμοῦ ταῖς γυναιξὶν αὐτῶν ἦγον. <quote xml:lang="grc">τοὺς μέν νυν καθαροὺς βοῦς τοὺς ἔρσενας καὶ τοὺς μόσχους 
+                    οἱ πάντες <persName type="population" key="Egyptiens">Αἰγύπτιοι</persName> θύουσι, τὰς δὲ θηλείας οὔ σφιν ἔξεστι θύειν, ἀλλὰ ἱραί εἰσι τῆς <persName type="deity" key="Isis">Ἴσιδος</persName>· τὸ γὰρ τῆς <persName type="deity" key="Isis">Ἴσιδος</persName>· ἄγαλμα 
+                ἐὸν γυναικήιον βούκερών ἐστι, καθάπερ οἱ <persName type="population" key="Grecs">Ἕλληνες</persName> τὴν <persName type="deity" key="Io">Ἰοῦν</persName> γράφουσιν.</quote></p>
+            
+            <p n="28.5-6">τίνες δ’ ἂν μᾶλλον ταῦτα πιστευθεῖεν λέγοντες ἢ οἱ κατὰ διαδοχὴν γένους παῖς παρὰ πατρός, ὡς τὴν ἱερωσύνην
+                καὶ τὴν ἱστορίαν διαδεχόμενοι; οὐ γὰρ τοὺς σεμνοποιοῦντας ζακόρους τὰ εἴδωλα εἰκὸς ἀνθρώπους αὐτοὺς γενέσθαι ψεύδεσθαι.
+               εἰ τοίνυν Ἡρόδοτος ἔλεγεν περὶ τῶν θεῶν ὡς περὶ ἀνθρώπων ἱστορεῖν <persName type="population" key="Egyptiens">Αἰγυπτίους</persName>, καὶ λέγοντι τῷ Ἡροδότῳ <quote xml:lang="grc">τὰ μέν νυν θεῖα 
+               τῶν ἀφηγημάτων, οἷα ἤκουον, οὐκ εἰμὶ πρόθυμος διηγεῖσθαι, ἔξω ἢ τὰ ὀνόματα αὐτέων μοῦνα</quote> ἐλάχιστα μὴ πιστεύειν ὡς 
+               μυθοποιῷ ἔδει· ἐπεὶ δὲ Ἀλέξανδρος καὶ Ἑρμῆς ὁ Τρισμέγιστος ἐπικαλούμενος συνάπτων τὸ ἴδιον αὐτοῖς γένος καὶ ἄλλοι μυρίοι, 
+               ἵνα μὴ καθ’ ἕκαστον καταλέγοιμι, οὐδὲ λόγος ἔτι καταλείπεται βασιλεῖς ὄντας αὐτοὺς μὴ νενομίσθαι θεούς.</p>
+            
+            <p n="28.7-9">καὶ ὅτι μὲν ἄνθρωποι, δηλοῦσιν μὲν καὶ <persName type="population" key="Egyptiens">Αἰγυπτίων</persName> οἱ λογιώτατοι, οἳ θεοὺς λέγοντες αἰθέρα, γῆν, ἥλιον, σελήνην,
+                τοὺς ἄλλους ἀνθρώπους θνητοὺς νομίζουσιν καὶ ἱερὰ τοὺς τάφους αὐτῶν· δηλοῖ δὲ καὶ Ἀπολλόδωρος ἐν τῷ περὶ θεῶν. 
+                Ἡρόδοτος δὲ καὶ τὰ παθήματα αὐτῶν φησι μυστήρια· <quote xml:lang="grc">ἐν δὲ Βουσίρι πόλει ὡς ἀνάγουσι τῇ Ἴσι τὴν ἑορτήν, εἴρηται πρότερόν μοι.
+                τύπτονται γὰρ δὴ μετὰ τὴν θυσίην πάντες καὶ πᾶσαι, μυριάδες κάρτα πολλαὶ ἀνθρώπων. τὸν δὲ τύπτονται τρόπον, οὔ μοι ὅσιόν
+                ἐστιν λέγειν.</quote> εἰ θεοί, καὶ ἀθάνατοι,   εἰ δὲ τύπτονται καὶ τὰ πάθη ἐστὶν αὐτῶν μυστήρια, ἄνθρωποι.
+                ὁ αὐτὸς Ἡρόδοτος· <quote xml:lang="grc">εἰσὶ δὲ καὶ αἱ ταφαὶ τοῦ οὐχ ὅσιον ποιοῦμαι ἐπὶ τοιούτῳ πράγματι ἐξαγορεύειν τὸ ὄνομα, ἐν Σάι ἐν τῷ ἱερῷ 
+                τῆς Ἀθηναίης, ὄπισθεν τοῦ νηοῦ, παντὸς τῆς Ἀθηναίης ἐχόμενον τοίχου. λίμνη δ’ ἐστὶν ἐχομένη λιθίνῃ κρηπῖδι κεκοσμημένη 
+                ἐν κύκλῳ, μέγεθος, ὡς ἐμοὶ δοκέει, ὅση περ ἐν Δήλῳ ἡ τροχοειδὴς καλεομένη. ἐν δὲ τῇ λίμνῃ ταύτῃ τὰ δείκηλα τῶν παθέων
+                αὐτοῦ νυκτὸς ποιεῦσι τὰ καλέουσι μυστήρια<persName type="population" key="Egyptiens"> Αἰγύπτιοι</persName>.</quote></p>
+            
+            <p n="28.10">καὶ οὐ μόνον ὁ τάφος τοῦ <persName type="deity" key="Osiris">Ὀσίριδος</persName> δείκνυται, ἀλλὰ καὶ ταριχεία·<quote xml:lang="grc"> ἐπεάν σφισιν κομισθῇ νεκρός, δεικνύασι τοῖσι
+                κομίσασι παραδείγματα νεκρῶν ξύλινα τῇ γραφῇ μεμιμημένα· καὶ τὴν μὲν σπουδαιοτάτην αὐτέων φασὶν εἶναι τοῦ οὐχ ὅσιον 
+                ποιοῦμαι οὔνομα ἐπὶ τοιούτῳ πράγματι ὀνομάζειν.</quote></p>
+            
+            <gap reason="sampling"/>
+        </body>
+    </text>
+    
+</TEI>
+
+

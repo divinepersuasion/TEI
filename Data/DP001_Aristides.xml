@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogue des passages référant aux divinités isiaques chez Aristide d'Athènes</title>
+                <principal>Elise Coignet</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>Extraits de l'édition de Pouderon et al. (Sources chrétiennes n°470, 2003)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Aristide d’Athènes</author>
+                        <title>Apologie</title>
+                        <editor>Bernard Pouderon</editor>
+                        <editor>Marie-Joseph Pierre</editor>
+                        <respStmt>
+                            <resp>collaboration</resp>
+                            <name>Bernard Outtier</name>
+                        </respStmt>
+                        <respStmt>
+                            <resp>collaboration</resp>
+                            <name>Marina Guiorgadzé</name>
+                        </respStmt>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Éditions du Cerf</publisher>
+                            <date when="2003">2003</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Sources chrétiennes</title>
+                        <biblScope unit="volume">470</biblScope>
+                    </series>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Grec ancien</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="genre">
+                    <term>apologétique</term>
+                    <term>prose</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date notBefore="0120" notAfter="0140">125</date>
+                <date scope="120-160"/>
+                <date period="préconstantinienne">période préconstantinienne</date>
+                <placeName>Athènes</placeName>
+                <region>Grèce</region>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <gap reason="sampling"/>
+            <p n="12.1"> <persName type="population" key="Egyptiens">Αἰγύπτιοι</persName> δὲ ἀβελτερώτεροι καὶ ἀφρονέστεροι τούτων ὄντες χεῖρον πάντων τῶν ἐθνῶν 
+                ἐπλανήθησαν·οὐ γὰρ ἠρκέσθησαν τοῖς τῶν Χαλδαίων καὶ <persName type="population" key="Grecs">Ἑλλήνων</persName> σεβάσμασιν, ἀλλ’ ἔτι 
+             καὶ ἄλογα ζῷα παρεισήγαγον θεοὺς εἶναι χερσαῖά τε καὶ ἔνυδρα καὶ τὰ φυτὰ καὶ βλαστὰ 
+             καὶ ἐμιάνθησαν ἐν πάσῃ μανίᾳ καὶ ἀσελγείᾳ χεῖρον πάντων τῶν ἐθνῶν τῶν ἐπὶ τῆς γῆς.</p> 
+            
+            <p n="12.2-3">ἀρχῆθεν γὰρ ἐσέβοντο τὴν <persName type="deity" key="Isis">Ἶσιν</persName>, ἔχουσαν ἀδελφὸν καὶ ἄνδρα τὸν <persName type="deity" key="Osiris">Ὄσιριν</persName>, τὸν σφαγέντα 
+                ὑπὸ τοῦ ἀδελφοῦ αὐτοῦ <persName type="deity" key="Typhon">Τύφωνος</persName>. καὶ διὰ τοῦτο φεύγει ἡ <persName type="deity" key="Isis">Ἶσις</persName> μετὰ <persName type="deity" key="Horus">Ὥρου</persName> τοῦ υἱοῦ αὐτῆς 
+                εἰς Βύβλον τῆς Συρίας ζητοῦσα τὸν <persName type="deity" key="Osiris">Ὄσιριν</persName>, πικρῶς θρηνοῦσα, ἕως ηὔξησεν ὁ <persName type="deity" key="Horus">Ὧρος</persName> καὶ 
+                ἀπέκτεινε τὸν <persName type="deity" key="Typhon">Τύφωνα</persName>. οὔτε οὖν ἡ <persName type="deity" key="Isis">Ἶσις</persName> ἴσχυσε βοηθῆσαι τῷ ἰδίῳ ἀδελφῷ καὶ ἀνδρί·οὔτε 
+                ὁ <persName type="deity" key="Osiris">Ὄσιρις</persName> σφαζόμενος ὑπὸ τοῦ <persName type="deity" key="Typhon">Τύφωνος</persName> ἠδυνήθη ἀντιλαβέσθαι ἐαυτοῦ· οὔτε <persName type="deity" key="Typhon">Τύφων</persName> ὁ 
+                ἀδελφοκτόνος, ἀπολλύμενος ὑπὸ τοῦ <persName type="deity" key="Horus">Ὥρου</persName> καὶ τῆς <persName type="deity" key="Isis">Ἴσιδος</persName>, εὐπόρησε ῥύσασθαι 
+             ἑαυτὸν τοῦ θανάτου. καὶ ἐπὶ τοιούτοις ἀτυχήμασι γνωρισθέντες αὐτοὶ θεοὶ ὑπὸ τῶν 
+             ἀσυνέτων <persName type="population" key="Egyptiens">Αἰγυπτίων</persName>  ἐνομίσθησαν. </p>
+            
+            <p n="12.4-5">οἵτινες, μηδ’ ἐν τοιούτοις ἀρκεσθέντες ἢ τοῖς λοιποῖς σεβάσμασι τῶν ἐθνῶν, καὶ τὰ
+             ἄλογα ζῷα παρεισήγαγον θεοὺς εἶναι. τινὲς γὰρ αὐτῶν ἐσεβάσθησαν πρόβατον, τινὲς δὲ τράγον,
+             ἕτεροι δὲ μόσχον καὶ τὸν χοῖρον, ἄλλοι δὲ τὸν κόρακα καὶ τὸν ἱέρακα καὶ τὸν γῦπα καὶ τὸν ἀετόν,
+             καὶ ἄλλοι τὸν κροκόδειλον, τινὲς δὲ τὸν αἴλουρον καὶ τὸν κύνα καὶ τὸν λύκον καὶ τὸν πίθηκον 
+             καὶ τὸν δράκοντα καὶ τὴν ἀσπίδα, καὶ ἄλλοι τὸ κρόμυον καὶ τὸ σκόροδον καὶ ἀκάνθας, καὶ τὰ λοιπὰ
+             κτίσματα. καὶ οὐκ αἰσθάνονται οἱ ταλαίπωροι περὶ πάντων τούτων ὅτι οὐδὲν ἰσχύουσιν. ὁρῶντες γὰρ
+             τοὺς θεοὺς αὐτῶν βιβρωσκομένους ὑπὸ ἑτέρων ἀνθρώπων καὶ καιομένους καὶ σφαττομένους καὶ
+             σηπομένους, οὐ συνῆκαν περὶ αὐτῶν ὅτι οὐκ εἰσὶ θεοί.</p>
+            
+            <p n="13.1">Πλάνην οὖν μεγάλην ἐπλανήθησαν οἵ τε <persName type="population" key="Egyptiens">Αἰγύπτιοι</persName>  καὶ 
+                οἱ <persName type="population" key="Chaldéens"> Χαλδαῖοι</persName>  καὶ οἱ <persName type="population" key="Grecs">Ἕλληνες</persName>τοιούτους 
+             παρεισάγοντες θεοὺς καὶ ἀγάλματα αὐτῶν ποιοῦντες καὶ θεοποιούμενοι τὰ κωφὰ καὶ ἀναίσθητα 
+             εἴδωλα. καὶ θαυμάζω, πῶς ὁρῶντες τοὺς θεοὺς αὐτῶν ὑπὸ τῶν δημιουργῶν πριζομένους καὶ 
+             πελεκουμένους καὶ κολοβουμένους παλαιουμένους τε ὑπὸ τοῦ χρόνου καὶ ἀναλυομένους καὶ 
+             χωνευομένους οὐκ ἐφρόνησαν περὶ αὐτῶν ὅτι οὐκ εἰσὶ θεοί. οἵτε γὰρ περὶ τῆς ἰδίας σωτηρίας
+             οὐδὲν ἰσχύουσι, πῶς τῶν ἀνθρώπων πρόνοιαν ποιήσονται; </p>
+            <gap reason="sampling"/>
+        </body>
+    </text>
+    
+</TEI>
+

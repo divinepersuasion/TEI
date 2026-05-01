@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogue des passages référant aux divinités isiaques chez Théophile d'Antioche</title>
+                <principal>Elise Coignet</principal>
+            </titleStmt>
+            <publicationStmt>
+                <p>Extraits de l'édition de Bardy et Sender (Sources chrétiennes n°20, 1948)</p>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Théophile d'Antioche</author>
+                        <title>Trois livres à Autolycus</title>
+                        <respStmt>
+                            <resp>texte grec établi par</resp>
+                            <name>Gustave Bardy</name>
+                        </respStmt>
+                        <respStmt>
+                            <resp>traduction</resp>
+                            <name>Jean Sender</name>
+                        </respStmt>
+                        <respStmt>
+                            <resp>introduction et notes</resp>
+                            <name>Gustave Bardy</name>
+                        </respStmt>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Éditions du Cerf</publisher>
+                            <date when="1948">1948</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Sources chrétiennes</title>
+                        <biblScope unit="volume">20</biblScope>
+                    </series>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Grec ancien</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="genre">
+                    <term>protreptique</term>
+                    <term>prose</term>
+                </keywords>
+            </textClass>
+            <creation>
+                <date notBefore="0180">180-185</date>
+                <date scope="160-220"/>
+                <date period="préconstantinienne">période préconstantinienne</date>
+                <placeName>Antioche</placeName>
+                <region>Syrie</region>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <gap reason="sampling"/>
+            <p n="9"> Καὶ τὰ μὲν ὀνόματα ὧν φῂς σέβεσθαι θεῶν ὀνόματά ἐστιν νεκρῶν ἀνθρώπων. Καὶ τούτων τίνων καὶ ποταπῶν;
+                οὐχὶ <persName type="deity" key="Kronos">Κρόνος</persName> μὲν τεκνοφάγος εὑρίσκεται καὶ τὰ ἑαυτοῦ τέκνα ἀναλίσκων; 
+                εἰ δὲ καὶ <persName type="deity" key="Zeus">Δία</persName> τὸν παῖδα αὐτοῦ εἴποις, κατάμαθε κἀκείνου τὰς πράξεις καὶ τὴν ἀναστροφήν. 
+                Πρῶτον μὲν ἐν Ἴδῃ ὑπὸ αἰγὸς ἀνετράφη, καὶ ταύτην σφάξας κατὰ τοὺς μύθους καὶ ἐκδείρας ἐποίησεν ἑαυτῷ ἔνδυμα. 
+                Τὰς δὲ λοιπὰς πράξεις αὐτοῦ, περί τε ἀδελφοκοιτίας καὶ μοιχείας καὶ παιδοφθορίας, ἄμεινον Ὅμηρος καὶ οἱ λοιποὶ
+                ποιηταὶ περὶ αὐτοῦ ἐξηγοῦνται. Τί μοι τὸ λοιπὸν καταλέγειν περὶ τῶν υἱῶν αὐτοῦ, <persName type="deity" key="Hercule">Ἡρακλέα</persName> μὲν ἑαυτὸν καύσαντα, 
+                <persName type="deity" key="Dionysos">Διόνυσον</persName> δὲ μεθύοντα καὶ μαινόμενον, καὶ <persName type="deity" key="Apollon">Ἀπόλλωνα</persName> τὸν Ἀχιλλέα δεδιότα καὶ φεύγοντα καὶ τῆς Δάφνης ἐρῶντα καὶ τὸν 
+                Ὑακίνθου μόρον ἀγνοοῦντα, <persName type="deity" key="Aphrodite">Ἀφροδίτην</persName> τὴν τιτρωσκομένην, καὶ <persName type="deity" key="Harès">Ἄρεα</persName> τὸν βροτολοιγόν, ἔτι δὲ καὶ ἰχῶρα ῥέοντα τούτων 
+                τῶν λεγομένων θεῶν; Καὶ ταῦτα μὲν μέτριον εἰπεῖν, ὅπου γε θεὸς εὑρίσκεται μεμελισμένος ὁ καλούμενος <persName type="deity" key="Osiris">Ὄσιρις</persName>, οὗ καὶ 
+                κατ' ἔτος γίνονται τελεταὶ ὡς ἀπολλυμένου καὶ εὑρισκομένου καὶ κατὰ μέλος ζητουμένου· οὔτε γὰρ εἰ ἀπόλλυται νοεῖται, 
+                οὔτε εἰ εὑρίσκεται δείκνυται. Τί δέ μοι λέγειν <persName type="deity" key="Attis">Ἄττιν</persName> ἀποκοπτόμενον ἢ <persName type="deity" key="Adonis">Ἄδωνιν</persName> ἐν ὕλῃ ῥεμβόμενον καὶ κυνηγετοῦντα καὶ 
+                τιτρωσκόμενον ὑπὸ συός, ἢ <persName type="deity" key="Asklepios">Ἀσκληπιὸν</persName> κεραυνούμενον, καὶ <persName type="deity" key="Sarapis">Σάραπιν</persName> τὸν ἀπὸ Σινώπης φυγάδα εἰς Ἀλεξάνδρειαν γεγονότα, 
+                ἢ τὴν Σκυθίαν <persName type="deity" key="Artemis">Ἄρτεμιν</persName> καὶ αὐτὴν φυγάδα γεγονυῖαν καὶ ἀνδροφόνον καὶ κυνηγέτιν καὶ τοῦ Ἐνδυμίωνος ἐρασθεῖσαν; 
+                Ταῦτα γὰρ οὐχ ἡμεῖς φαμεν, ἀλλὰ οἱ καθ' ὑμᾶς συγγραφεῖς καὶ ποιηταὶ κηρύσσουσιν. </p> 
+            
+            <p n="10">Τί μοι λοιπὸν καταλέγειν τὸ πλῆθος ὧν σέβονται ζώων <persName type="population" key="Egyptiens">Αἰγύπτιοι</persName>, ἑρπετῶν τε καὶ κτηνῶν
+                καὶ θηρίων καὶ πετεινῶνκαὶ ἐνύδρων νηκτῶν, ἔτι δὲ καὶ ποδόνιπτρα καὶ ἤχους αἰσχύνης;
+                Εἰ δὲ καὶ <persName type="population" key="Grecs">Ἕλληνας</persName> εἴποις καὶ τὰ λοιπὰ ἔθνη, σέβονται λίθους καὶ ξύλα καὶ τὴν λοιπὴν ὕλην,
+                ὡς ἔφθημεν εἰρηκέναι, ἀπεικονίσματα νεκρῶν ἀνθρώπων· </p>
+            
+            <gap reason="sampling"/>
+        </body>
+    </text>
+    
+</TEI>
+
+
