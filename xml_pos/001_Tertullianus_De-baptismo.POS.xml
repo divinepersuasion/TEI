@@ -2754,15 +2754,19 @@ subministrant, sed, viduis aquis, sibi mentiuntur.<cc:s n="2" parent_pid="44:3.5
               <cc:w lemma="per" pos="PREP">per</cc:w>
               <cc:w lemma="lavacrum" pos="N:acc">lavacrum</cc:w>
               <cc:w lemma="initio" pos="V:IND">initiantur</cc:w>
-              <cc:w lemma="????" pos="????">Isidis</cc:w>
+              <cc:w lemma="Isis" pos="N:gen">
+                <persName type="deity">Isidis</persName>
+              </cc:w>
               <cc:w lemma="aliquis" pos="PRON">alicujus</cc:w>
               <cc:w lemma="aut" pos="CC">aut</cc:w>
-              <cc:w lemma="????" pos="????">Mithrae</cc:w>
+              <cc:w lemma="Mithra" pos="N:gen">
+                <persName type="deity">Mithrae</persName>
+              </cc:w>
               <cc:w lemma="ipse" pos="DET">ipsos</cc:w>
               <cc:w lemma="etiam" pos="CC">etiam</cc:w>
               <cc:w lemma="Deus" pos="N:acc">deos</cc:w>
               <cc:w lemma="suus" pos="POSS">suos</cc:w>
-              <cc:w lemma="????" pos="????">lavationibus</cc:w>
+              <cc:w lemma="lavatio" pos="N:abl">lavationibus</cc:w>
               <cc:w lemma="effero" pos="V:IND">efferunt</cc:w>
             </cc:s>
 Nam et sacris quibusdam per lavacrum initiantur,
